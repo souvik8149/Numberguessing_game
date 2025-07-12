@@ -16,9 +16,8 @@ A beginner-friendly Python command-line game.
 
 ```bash
 python number_guessing.py
+```
 
-Requirements
--------------
-Python 3.x
-
-Uses only built-in modules (random, time)
+# Requirements
+- Python 3.x
+- Uses only built-in modules (random, time)
